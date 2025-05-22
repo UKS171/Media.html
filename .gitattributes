@@ -1,2 +1,33 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="media.css" />
+    <title>Media</title>
+  </head>
+  <body>
+    <h1>Welcome to my Responsive Site</h1>
+    <div class="container">
+      <div class="item">Item 1</div>
+      <div class="item">Item 2</div>
+      <div class="item">Item 3</div>
+    </div>
+    <h1>Welcome to my Responsive Site</h1>
+    <p>This page changes based on screen size.</p>
+    <div class="heading">Media Queries and Animations</div>
+    <div class="container">
+      <div>I am Container</div>
+    </div>
+    <div class="flex">
+      <div class="box rotate-scale-up">1</div>
+      <div class="box">2</div>
+      <div class="box">3</div>
+      <div class="box">4</div>
+      <div class="box">5</div>
+      <div class="box">6</div>
+      <div class="box box-7 flip-horizontal-bottom">7</div>
+      <div class="box box-8">8</div>
+    </div>
+  </body>
+</html>
